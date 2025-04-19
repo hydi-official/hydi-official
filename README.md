@@ -142,7 +142,7 @@ const getEsselProfile = () => {
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=sojourn-dashboard&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sojourn Dashboard" />
   </a>
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=quit-smoking-app&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Quit Smoking App" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=Quit-smoking&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Quit Smoking App" />
   </a>
 </div>
 
