@@ -33,7 +33,7 @@ To build sleek, powerful, and reliable web & mobile apps with an eye for design 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,php,react,reactnative,tailwind,nodejs,mysql,firebase,figma,xd,unity,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,php,react,postman,typescript,css,flutter,mongodb,reactnative,tailwind,nodejs,mysql,firebase,figma,xd,unity,github" />
 </div>
 
 ---
