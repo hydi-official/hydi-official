@@ -16,23 +16,32 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const essel = {
-  education: "BSc Information Technology, UG (2025)",
-  code: ["Java", "Python", "C#", "PHP", "JavaScript", "TypeScript"],
-  tools: {
-    frontend: ["React", "React Native", "Tailwind CSS", "HTML/CSS"],
-    backend: ["Node.js", "Express", "ASP.NET MVC", "PHP"],
-    database: ["MySQL", "MongoDB", "Firebase"],
-    design: ["Figma", "Adobe XD"],
-    other: ["Unity", "GitHub", "REST API", "Cloudinary", "WordPress"]
-  },
-  experience: [
-    { company: "NCR Ghana", role: "Software Development Intern", duration: "Aug 2023 - Sep 2023" },
-    { company: "Sojourn Cabins", role: "Frontend Developer", duration: "May 2023 - Aug 2023" }
-  ],
-  currentFocus: "Building scalable applications with great user experiences",
-  funFact: "I balance coding with fitness and create games in Unity!"
+const getEsselProfile = () => {
+  return {
+    education: "BSc Information Technology, University of Ghana (2025)",
+    code: ["Java", "Python", "C#", "PHP", "JavaScript", "TypeScript"],
+    tools: {
+      frontend: ["React", "React Native", "Tailwind CSS", "HTML/CSS"],
+      backend: ["Node.js", "Express", "ASP.NET MVC", "PHP"],
+      database: ["MySQL", "MongoDB", "Firebase"],
+      design: ["Figma", "Adobe XD"],
+      other: ["Unity", "GitHub", "REST API", "Cloudinary", "WordPress"]
+    },
+    experience: [
+      { company: "NCR Ghana", role: "Software Development Intern", duration: "Aug 2023 - Sep 2023" },
+      { company: "Sojourn Cabins", role: "Frontend Developer", duration: "May 2023 - Aug 2023" }
+    ],
+    currentFocus: "Building scalable applications with great user experiences",
+    funFact: "I balance coding with fitness and create games in Unity!",
+    getContact: () => ({
+      email: "esseldacosta00@gmail.com",
+      linkedin: "linkedin.com/in/essel-eghan-9a0b52230",
+      portfolio: "portfolio-eight-ivory-90.vercel.app"
+    })
+  };
 };
+
+// Run getEsselProfile() to learn more about me!
 ```
 
 ## 📊 GitHub Analytics
@@ -120,20 +129,20 @@ const essel = {
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/hydi-official/real-estate-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=real-estate-app&theme=tokyonight&hide_border=true" />
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=real-estate-app&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Multi-Vendor Real Estate App" />
   </a>
-  <a href="https://github.com/hydi-official/healthcare-management">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=healthcare-management&theme=tokyonight&hide_border=true" />
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=healthcare-management&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Healthcare Management System" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/hydi-official/sojourn-dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=sojourn-dashboard&theme=tokyonight&hide_border=true" />
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=sojourn-dashboard&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sojourn Dashboard" />
   </a>
-  <a href="https://github.com/hydi-official/quit-smoking-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=quit-smoking-app&theme=tokyonight&hide_border=true" />
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydi-official&repo=quit-smoking-app&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Quit Smoking App" />
   </a>
 </div>
 
@@ -141,20 +150,36 @@ const essel = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🏡 **[Multi-Vendor Real Estate App](https://github.com/hydi-official/real-estate-app)** | A scalable property management system for agents, landlords, and buyers | React, Node.js, Express, Tailwind CSS |
-| 🩺 **[Healthcare Management System](https://github.com/hydi-official/healthcare-management)** | Platform for finding healthcare providers and booking appointments | React, Tailwind CSS, MongoDB |
-| 🧳 **[Sojourn Cabins Dashboard](https://github.com/hydi-official/sojourn-dashboard)** | Guest management dashboard for booking and service coordination | React.js, Tailwind CSS |
-| 🛒 **[E-Commerce Platform](https://github.com/hydi-official/ecommerce-platform)** | Web-based storefront for browsing and purchasing products | React, Tailwind CSS, Node.js |
-| 🎮 **[FPS Game](https://github.com/hydi-official/unity-fps-game)** | Immersive first-person shooter with dynamic environments | Unity, C# |
-| 🚭 **[Quit Smoking App](https://github.com/hydi-official/quit-smoking-app)** | Health tracker with habit logging and chatbot interaction | React Native, Firebase |
+| 🏡 **Multi-Vendor Real Estate App** | A scalable property management system for agents, landlords, and buyers | React, Node.js, Express, Tailwind CSS |
+| 🩺 **Healthcare Management System** | Platform for finding healthcare providers and booking appointments | React, Tailwind CSS, MongoDB |
+| 🧳 **Sojourn Cabins Dashboard** | Guest management dashboard for booking and service coordination | React.js, Tailwind CSS |
+| 🛒 **E-Commerce Platform** | Web-based storefront for browsing and purchasing products | React, Tailwind CSS, Node.js |
+| 🎮 **FPS Game** | Immersive first-person shooter with dynamic environments | Unity, C# |
+| 🚭 **Quit Smoking App** | Health tracker with habit logging and chatbot interaction | React Native, Firebase |
 
-## 🐍 Contribution Snake
+## 🐍 Animated Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hydi-official/hydi-official/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hydi-official/hydi-official/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hydi-official/hydi-official/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hydi-official/hydi-official/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hydi-official/hydi-official/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hydi-official/hydi-official/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <h3>🔄 Watch My Contributions Grow! 🔄</h3>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hydi-official&custom_title=Essel's%20Contribution%20Graph&bg_color=1a1b27&color=628fdb&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="Essel's Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hydi-official&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="Trophy" width="100%" />
+</div>
 
 ## 📌 Quick Links
 
@@ -176,10 +201,12 @@ const essel = {
   </a>
 </p>
 
-## 🌟 GitHub Activity Graph
+## 🚀 Current Learning Path
 
 <div align="center">
-  <img alt="Essel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hydi-official&theme=tokyo-night&hide_border=true" />
+  <img src="https://progress-bar.dev/80?title=React&width=230&color=1E90FF" alt="React Progress" />
+  <img src="https://progress-bar.dev/75?title=Node.js&width=230&color=43853D" alt="Node.js Progress" />
+  <img src="https://progress-bar.dev/65?title=Unity%20Game%20Dev&width=230&color=000000" alt="Unity Progress" />
 </div>
 
 ## 🔮 Certification Journey
@@ -219,22 +246,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"  # Runs every 6 hours
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: hydi-official
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
