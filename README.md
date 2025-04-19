@@ -94,7 +94,7 @@ switch it and see the magic!
 ## 🖼️ Hero Illustration
 
 <p align="center">
-  <img src="./assests/hero-illustration.svg" width="80%" alt="Essel's Hero Illustration" />
+  <img src="./assests/esel.png" width="80%" alt="Essel's Hero Illustration" />
 </p>
 
 ---
