@@ -63,13 +63,16 @@ To build sleek, powerful, and reliable web & mobile apps with an eye for design 
 
 ---
 
-## 🏆 Projects I’m Proud Of
+## 🏆 Pinned Project Highlights
 
-- 🏡 Multi-Vendor Real Estate App *(React, Node.js, Express, Tailwind)*  
-- 🩺 Health Care Management System *(React, MongoDB)*  
-- 🧳 Sojourn Cabins Dashboard *(React.js, Tailwind CSS)*  
-- 🛒 E-Commerce Platform *(React, Tailwind CSS)*  
-- 🎮 First-Person Shooter Game *(Unity, C#)*  
+| Project | Description |
+|---------|-------------|
+| 🏡 **Multi-Vendor Real Estate Application** | A scalable property management system for agents, landlords, and buyers. Built with React, Node.js, and Tailwind CSS for modern real estate solutions. |
+| 🩺 **Health Care Management System** | An intuitive app to help users find healthcare providers and book appointments with ease. Tech stack: React, Tailwind CSS, MongoDB. |
+| 🧳 **Sojourn Cabins Dashboard** | A user-friendly guest management dashboard for booking and service coordination. Designed with React.js and Tailwind CSS for seamless experiences. |
+| 🛒 **E-Commerce Platform** | A web-based storefront allowing users to browse, purchase, and manage products. Focused on speed and responsive UI with React and Tailwind CSS. |
+| 🎮 **First-Person Shooter Game** | An immersive Unity FPS game featuring dynamic environments and addictive gameplay loops. Developed in C# with Unity Engine. |
+| 🚭 **Quit Smoking App** | A mobile-first health tracker designed to help users quit smoking. Includes habit logging and chatbot interaction. Built with React Native and Firebase. |
 
 ---
 
@@ -98,4 +101,3 @@ switch it and see the magic!
 
 > 💡 “Code today for a better world tomorrow.”  
 > — Essel Eghan
-
