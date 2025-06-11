@@ -47,11 +47,7 @@ To build sleek, powerful, and reliable web & mobile apps with an eye for design 
 
 ---
 
-## 🐍 Contribution Snake Graph
 
-<p align="center">
-  <img src="https://github.com/hydi-official/hydi-official/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 ---
 
