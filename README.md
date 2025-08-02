@@ -121,7 +121,7 @@ This profile was designed to look smooth and clean on both **GitHub Light Mode**
 ## 🖼️ Hero Illustration
 
 <p align="center">
-  <img src="./assets/esel.png" width="80%" alt="Essel's Hero Illustration" />
+    <img src="./assests/esel.png" width="80%" alt="Essel's Hero Illustration" />
 </p>
 
 ---
