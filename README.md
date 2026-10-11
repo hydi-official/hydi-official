@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://essel-portolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://essel-portolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/essel-eghan-9a0b52230"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:709bjs@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hydi-official&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hydi-official&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I build sleek, scalable and reliable **web, mobile and 3D experiences** — with
 
 <p align="center">
   <b>Frontend & Mobile</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,flutter,tailwind,threejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,threejs&perline=8" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ I build sleek, scalable and reliable **web, mobile and 3D experiences** — with
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hydi-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="95%" src="https://ghchart.rshah.org/1E90FF/hydi-official" alt="Contribution Chart" />
 </p>
 
 <details>
